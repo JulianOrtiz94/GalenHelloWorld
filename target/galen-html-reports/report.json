@@ -1,0 +1,17 @@
+{
+  "tests" : [ {
+    "name" : "Test Automation Using Galen Framework",
+    "startedAt" : 1554818190801,
+    "endedAt" : 1554818190801,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 3,
+      "errors" : 1,
+      "warnings" : 0,
+      "total" : 4
+    },
+    "testId" : "1-test-automation-using-galen-framework",
+    "duration" : 0,
+    "failed" : true
+  } ]
+}
